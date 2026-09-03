@@ -37,6 +37,6 @@ int main() {
     else if(v3 > v1 && v3 > v2) printf("%s\n", c3);
     else printf("Tie\n");
 
-    printf("\nThank you for using Group 13 EVM.\n");
+    printf("\nThank you for using Victoria University EVM.\n");
     return 0;
 }
